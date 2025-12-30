@@ -1,0 +1,17 @@
+[package]
+name = "duration-calc"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+description = "CLI calculator for time durations with natural language input"
+repository = "https://github.com/yourusername/duration-calc"
+
+[dependencies]
+clap = { version = "4.4", features = ["derive"] }
+regex = "1.10"
+thiserror = "1.0"
+
+[[bin]]
+name = "duration-calc"
+path = "src/main.rs"
